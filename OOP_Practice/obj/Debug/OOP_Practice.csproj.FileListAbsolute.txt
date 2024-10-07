@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\MathApp1\OOP_Practice\obj\Debug\OOP_Practice.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\MathApp1\OOP_Practice\obj\Debug\OOP_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MathApp1\OOP_Practice\bin\Debug\OOP_Practice.pdb
+C:\Users\Student\source\repos\MathApp1\OOP_Practice\obj\Debug\OOP_Practice.pdb
+C:\Users\Student\source\repos\MathApp1\OOP_Practice\bin\Debug\OOP_Practice.dll.config
+C:\Users\Student\source\repos\MathApp1\OOP_Practice\bin\Debug\OOP_Practice.dll
+C:\Users\Student\source\repos\MathApp1\OOP_Practice\obj\Debug\OOP_Practice.dll

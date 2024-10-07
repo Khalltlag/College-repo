@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\MathApp1\MathApp1\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\MathApp1\MathApp1\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MathApp1\MathApp1\obj\Debug\MathApp1.exe
+C:\Users\Student\source\repos\MathApp1\MathApp1\obj\Debug\MathApp1.pdb
+C:\Users\Student\source\repos\MathApp1\MathApp1\bin\Debug\MathApp1.exe.config
+C:\Users\Student\source\repos\MathApp1\MathApp1\bin\Debug\MathApp1.exe
+C:\Users\Student\source\repos\MathApp1\MathApp1\bin\Debug\MathApp1.pdb
+C:\Users\Student\source\repos\MathApp1\MathApp1\bin\Debug\MathLibrary.dll
+C:\Users\Student\source\repos\MathApp1\MathApp1\bin\Debug\StringLibrary.exe
+C:\Users\Student\source\repos\MathApp1\MathApp1\bin\Debug\MathLibrary.pdb
+C:\Users\Student\source\repos\MathApp1\MathApp1\bin\Debug\StringLibrary.pdb
+C:\Users\Student\source\repos\MathApp1\MathApp1\bin\Debug\StringLibrary.exe.config
+C:\Users\Student\source\repos\MathApp1\MathApp1\bin\Debug\OOP_Practice.pdb
+C:\Users\Student\source\repos\MathApp1\MathApp1\obj\Debug\Main.csproj.Up2Date
+C:\Users\Student\source\repos\MathApp1\MathApp1\bin\Debug\OOP_Practice.dll
+C:\Users\Student\source\repos\MathApp1\MathApp1\bin\Debug\OOP_Practice.dll.config
