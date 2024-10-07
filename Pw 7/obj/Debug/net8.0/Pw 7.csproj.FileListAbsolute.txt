@@ -1,0 +1,14 @@
+D:\repos\mimir\Pw 7\bin\Debug\net8.0\Pw 7.exe
+D:\repos\mimir\Pw 7\bin\Debug\net8.0\Pw 7.deps.json
+D:\repos\mimir\Pw 7\bin\Debug\net8.0\Pw 7.runtimeconfig.json
+D:\repos\mimir\Pw 7\bin\Debug\net8.0\Pw 7.dll
+D:\repos\mimir\Pw 7\bin\Debug\net8.0\Pw 7.pdb
+D:\repos\mimir\Pw 7\obj\Debug\net8.0\Pw 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\mimir\Pw 7\obj\Debug\net8.0\Pw 7.AssemblyInfoInputs.cache
+D:\repos\mimir\Pw 7\obj\Debug\net8.0\Pw 7.AssemblyInfo.cs
+D:\repos\mimir\Pw 7\obj\Debug\net8.0\Pw 7.csproj.CoreCompileInputs.cache
+D:\repos\mimir\Pw 7\obj\Debug\net8.0\Pw 7.dll
+D:\repos\mimir\Pw 7\obj\Debug\net8.0\refint\Pw 7.dll
+D:\repos\mimir\Pw 7\obj\Debug\net8.0\Pw 7.pdb
+D:\repos\mimir\Pw 7\obj\Debug\net8.0\Pw 7.genruntimeconfig.cache
+D:\repos\mimir\Pw 7\obj\Debug\net8.0\ref\Pw 7.dll
