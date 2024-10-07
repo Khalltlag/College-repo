@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\MathApp1\ПР8\bin\Debug\net8.0\ПР8.exe
+C:\Users\Student\source\repos\MathApp1\ПР8\bin\Debug\net8.0\ПР8.deps.json
+C:\Users\Student\source\repos\MathApp1\ПР8\bin\Debug\net8.0\ПР8.runtimeconfig.json
+C:\Users\Student\source\repos\MathApp1\ПР8\bin\Debug\net8.0\ПР8.dll
+C:\Users\Student\source\repos\MathApp1\ПР8\bin\Debug\net8.0\ПР8.pdb
+C:\Users\Student\source\repos\MathApp1\ПР8\obj\Debug\net8.0\ПР8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\MathApp1\ПР8\obj\Debug\net8.0\ПР8.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MathApp1\ПР8\obj\Debug\net8.0\ПР8.AssemblyInfo.cs
+C:\Users\Student\source\repos\MathApp1\ПР8\obj\Debug\net8.0\ПР8.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MathApp1\ПР8\obj\Debug\net8.0\ПР8.dll
+C:\Users\Student\source\repos\MathApp1\ПР8\obj\Debug\net8.0\refint\ПР8.dll
+C:\Users\Student\source\repos\MathApp1\ПР8\obj\Debug\net8.0\ПР8.pdb
+C:\Users\Student\source\repos\MathApp1\ПР8\obj\Debug\net8.0\ПР8.genruntimeconfig.cache
+C:\Users\Student\source\repos\MathApp1\ПР8\obj\Debug\net8.0\ref\ПР8.dll
