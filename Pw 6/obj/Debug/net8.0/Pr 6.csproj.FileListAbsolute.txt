@@ -1,0 +1,14 @@
+D:\repos\mimir\Pw 6\bin\Debug\net8.0\Pr 6.exe
+D:\repos\mimir\Pw 6\bin\Debug\net8.0\Pr 6.deps.json
+D:\repos\mimir\Pw 6\bin\Debug\net8.0\Pr 6.runtimeconfig.json
+D:\repos\mimir\Pw 6\bin\Debug\net8.0\Pr 6.dll
+D:\repos\mimir\Pw 6\bin\Debug\net8.0\Pr 6.pdb
+D:\repos\mimir\Pw 6\obj\Debug\net8.0\Pr 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\mimir\Pw 6\obj\Debug\net8.0\Pr 6.AssemblyInfoInputs.cache
+D:\repos\mimir\Pw 6\obj\Debug\net8.0\Pr 6.AssemblyInfo.cs
+D:\repos\mimir\Pw 6\obj\Debug\net8.0\Pr 6.csproj.CoreCompileInputs.cache
+D:\repos\mimir\Pw 6\obj\Debug\net8.0\Pr 6.dll
+D:\repos\mimir\Pw 6\obj\Debug\net8.0\refint\Pr 6.dll
+D:\repos\mimir\Pw 6\obj\Debug\net8.0\Pr 6.pdb
+D:\repos\mimir\Pw 6\obj\Debug\net8.0\Pr 6.genruntimeconfig.cache
+D:\repos\mimir\Pw 6\obj\Debug\net8.0\ref\Pr 6.dll
