@@ -1,0 +1,14 @@
+D:\repos\mimir\Pw 11\obj\Debug\net8.0\Pw 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\mimir\Pw 11\obj\Debug\net8.0\Pw 11.AssemblyInfoInputs.cache
+D:\repos\mimir\Pw 11\obj\Debug\net8.0\Pw 11.AssemblyInfo.cs
+D:\repos\mimir\Pw 11\obj\Debug\net8.0\Pw 11.csproj.CoreCompileInputs.cache
+D:\repos\mimir\Pw 11\bin\Debug\net8.0\Pw 11.exe
+D:\repos\mimir\Pw 11\bin\Debug\net8.0\Pw 11.deps.json
+D:\repos\mimir\Pw 11\bin\Debug\net8.0\Pw 11.runtimeconfig.json
+D:\repos\mimir\Pw 11\bin\Debug\net8.0\Pw 11.dll
+D:\repos\mimir\Pw 11\bin\Debug\net8.0\Pw 11.pdb
+D:\repos\mimir\Pw 11\obj\Debug\net8.0\Pw 11.dll
+D:\repos\mimir\Pw 11\obj\Debug\net8.0\refint\Pw 11.dll
+D:\repos\mimir\Pw 11\obj\Debug\net8.0\Pw 11.pdb
+D:\repos\mimir\Pw 11\obj\Debug\net8.0\Pw 11.genruntimeconfig.cache
+D:\repos\mimir\Pw 11\obj\Debug\net8.0\ref\Pw 11.dll
