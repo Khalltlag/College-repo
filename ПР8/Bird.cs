@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP_Practice
+namespace OOP_Practice //Самост 1
 {
      class Bird : Animal
     {
