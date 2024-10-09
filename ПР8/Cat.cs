@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP_Practice
 {
-    class Cat : Animal
+    class Cat : Animal //Задание 3
     {
         public Cat(string name, int age) : base( name, age)
         {
