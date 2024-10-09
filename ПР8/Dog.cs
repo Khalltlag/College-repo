@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP_Practice
 {
-     class Dog : Animal
+     class Dog : Animal //задание 2
     {
         public string Breed { get; set; }
 
@@ -23,7 +23,7 @@ namespace OOP_Practice
         {
             Console.WriteLine("кушает мясо");
         }
-        public override void Fetch()
+        public override void Fetch() //Самост 2
         {
             Console.WriteLine("приносит мячик");
         }
