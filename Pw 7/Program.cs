@@ -2,7 +2,7 @@
 
 namespace OOP_Practice
 {
-    class Program
+    class Program //Задание 2
     {
         static void Main(string[] args)
         {
