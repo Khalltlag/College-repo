@@ -1,12 +1,12 @@
 ﻿using System;
 namespace OOP_Practice
 {
-    class BankAccount
+    class BankAccount //Задание 1
     {
         // Закрытые поля
         private int accountNumber;
-        private double balance;
-        private string ownerName;
+        private double balance; //Задание 3
+        private string ownerName; //Самостоятельное 1
         // Свойство для номера счета (только для чтения)
         public int AccountNumber
         {
@@ -49,7 +49,7 @@ namespace OOP_Practice
         public void Withdraw(double amount)
         {
             double commission = amount * 0.01;
-            double totalAmountToWithdraw = amount + commission;
+            double totalAmountToWithdraw = amount + commission; //Самост. 2
 
             if (totalAmountToWithdraw > balance)
             {
