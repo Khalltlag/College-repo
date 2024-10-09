@@ -6,7 +6,7 @@ namespace OOP_Practice
     {
         public string Brand { get; set; }
         public string Model { get; set; }
-        public double FuelLevel { get; set; }
+        public double FuelLevel { get; set; } //Задание 1
         public int Year { get; set; }
         public double Mileage { get; set; }
         public class Fuellevel
@@ -18,7 +18,7 @@ namespace OOP_Practice
                 Capacity = capacity;
                 CurrentLevel = 0;
             }
-            public void Refuel(double liters)
+            public void Refuel(double liters) //Задание 1
             {
                 if (liters < 0)
                 {
@@ -59,7 +59,7 @@ namespace OOP_Practice
         {
             if (FuelLevel > distance * 0.09)
             {
-                FuelLevel -= distance * 0.09;
+                FuelLevel -= distance * 0.09; //задание 2
                 Mileage += distance;
             }
             else
