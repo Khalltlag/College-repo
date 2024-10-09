@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP_Practice
 {
-    class Animal
+    class Animal //Задание 1
     {
         public string Name { get; set; }
         public int Age { get; set; }
@@ -23,7 +23,7 @@ namespace OOP_Practice
         }
 
 
-        public virtual void MakeSound()
+        public virtual void MakeSound() //Самост 1
         {
             Console.WriteLine("Животное издает звук");
         }
