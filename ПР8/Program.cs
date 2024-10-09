@@ -2,7 +2,7 @@
 using System.Data.Common;
 namespace OOP_Practice
 {
-    class Program
+    class Program //Задание 4
     {
         static void Main(string[] args)
         {
